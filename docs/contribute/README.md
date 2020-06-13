@@ -1,6 +1,6 @@
 ## Contribute
 
-The project is open source and under MIT license. You can contribute by cloning the Github repo and adding to the list, or by providing translations of the docs into different languages.
+The project is open source and under MIT license. You can contribute by cloning the [Github repo](https://github.com/CSumm/helpmepoc) and adding to the list, or by providing translations of the docs into different languages.
 
 ## Our wonderful contributors
 <a href="https://www.github.com/csumm">
