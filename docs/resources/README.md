@@ -1,4 +1,5 @@
 # Resources
+
 ## Aboriginal
 
 [Aboriginal Help Centre](http://aboriginalhelpcentre.ca/)
@@ -11,8 +12,6 @@
 
 [Montreal Indigenous Community Network](http://reseaumtlnetwork.com/)
 
-
-
 ## Arab
 
 [Afghan Women's Center of Montreal](https://www.afghanwomenmontreal.com/)
@@ -22,10 +21,10 @@
 
 [Canadian Palestinian Organizations Coalition](https://www.cjpmefoundation.org/coalition_pmr)
 
-
 ## Asian and Southern Pacific
 
 ### Pan-Asian
+
 [Asia Pacific Foundation Of Canada](https://www.asiapacific.ca/)
 
 [McGill Association of North American Born Asians](https://manaba.ca/)
@@ -44,16 +43,14 @@
 
 [Young Chinese Professional Association](https://www.ycpa.ca/en)
 
-
-
 ### Taiwanese
 
 [McGill Taiwanese Students' Association | MTSA](https://ssmu.ca/clubs/religion-culture-clubs/taiwanese-students-association/)
 
 [Taiwanese Canadian Association of Great Montreal](http://www.tcagm.com/)
 
-
 ### Japanese
+
 [Arashi Daiko | Japanese Drum Ensemble](http://www.arashidaiko.org/)
 
 [Club de Judo Shidokan](shidokanjc.ca)
@@ -62,7 +59,7 @@
 
 [Japanese Canadian Cultural Centre of Montreal](http://www.jcccm-cccjm.ca/)
 
-[Japanese Cultural Committee]() - Tel. 514-728-1996
+[Japanese Cultural Committee](tel:514-728-1996) - Tel. 514-728-1996
 
 [Komachi Montreal | Japanese dance ensemble](https://komachimontreal.com/)
 
@@ -79,7 +76,8 @@
 [Korean Community of Greater Montreal](http://montrealkorea.org/)
 
 ### Filipino (Pinay)
-[Famas Center]() - (514 341-7477)
+
+[Famas Center](tel:514-341-7477) - Tel. (514 341-7477)
 
 [Filipino Canadian Artist Association of Quebec](https://fcaaq.org/)
 
@@ -106,46 +104,52 @@
 [Association Bouddhique Thuyen Ton](http://thuyentonca.com/)
 
 ### Cambodian
+
 [Khmer History & Civilization Center](https://www.khem.org/khemaracenter.html)
 
-[Pagode Khmere Du Canada]() - (514) 735-6901
+[Pagode Khmere Du Canada](tel:514-735-6901) - Tel. (514) 735-6901
 
 ### Thai
+
 [WIP]
 
 ### Indian
+
 [Indian Community In Montreal](https://www.facebook.com/groups/767111396642080/)
 
 ### Pakistani
+
 [Pakistani Students Association | PSA](https://ssmu.ca/clubs/religion-culture-clubs/pakistani-students-association-psa/)
 
 ### Sri Lankin
+
 [WIP]
 
 ## Black
+
 The resources below are taken from [Black Montreal](http://www.blackmontreal.com/community_associations__orga.htm). All credits go to them, we are just styling it here for better accessibility.
 
 ### Carribean
+
 [Caribbean Students Society of McGill](https://ssmu.ca/clubs/religion-culture-clubs/caribbean-students-society-of-mcgill-university-css/)
 
 [Concordia Caribbean Students' Union](https://www.facebook.com/ccsu1)
 
-[Jamaican Association of Montreal](www.jam-montreal.com)
+[Jamaican Association of Montreal](http://www.jam-montreal.com)
 
 [Montreal Carnival Vibration](https://montrealcarnivalvibration.webs.com/)
 
 [St. Vincent and the Grenadines Association](https://www.svgamontreal.com/)
 
-
 ### Pan-African
+
 [African and Caribbean Students' Network of Montreal](http://www.acsion.org/)
 
 [Chantier dAfrique du Canada](http://chafric.ca/)
 
-
 ### Pan-American
 
-[Black Academic Scholarship Fund](www.basfund.ca)
+[Black Academic Scholarship Fund](https://www.basfund.ca/)
 
 [Black Theatre Workshop](http://www.blacktheatreworkshop.ca/)
 
@@ -174,10 +178,11 @@ The resources below are taken from [Black Montreal](http://www.blackmontreal.com
 [Pour 3 Points](https://pour3points.ca/en/)
 
 ## Latinx (serving Latin community)
+
 [Centre des familles latino americaines](https://cafla.ca/)
 
 [Association Latino Americaine de Montreal](https://www.facebook.com/Association-Latino-Am%C3%A9ricaine-de-Montr%C3%A9al-1415457375334232/)
 
-
 ## Persian
+
 [McGill Iranian Student Association](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-iranian-student-association-misa/)
