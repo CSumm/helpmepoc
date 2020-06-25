@@ -39,7 +39,7 @@
 
 [Chinese Students and Scholars Assocation | CSSA](https://mcgillcssa.com/)
 
-[Service a la famille chinoise du Grand Montreal](https://www.famillechinoise.qc.ca/fr/)
+[Greater Montreal services for Chinese families](https://www.famillechinoise.qc.ca/fr/)
 
 [Young Chinese Professional Association](https://www.ycpa.ca/en)
 
@@ -53,9 +53,9 @@
 
 [Arashi Daiko | Japanese Drum Ensemble](http://www.arashidaiko.org/)
 
-[Club de Judo Shidokan](shidokanjc.ca)
+[Judo Shidokan club](shidokanjc.ca)
 
-[Dojo Zen Arts martiaux](https://www.fkco.net/)
+[Dojo Zen Martial Arts](https://www.fkco.net/)
 
 [Japanese Canadian Cultural Centre of Montreal](http://www.jcccm-cccjm.ca/)
 
@@ -97,17 +97,17 @@
 
 ### Vietnamese
 
-[Communaute Vietnamienne Au Canada](https://vietnam.ca/)
+[Canadian Vietnamese Community](https://vietnam.ca/)
 
 [Tam Boa Son Buddhist Monastery in Montreal](https://www.tambaoson.com/)
 
-[Association Bouddhique Thuyen Ton](http://thuyentonca.com/)
+[Thuyen Ton Buddhist Association](http://thuyentonca.com/)
 
 ### Cambodian
 
 [Khmer History & Civilization Center](https://www.khem.org/khemaracenter.html)
 
-[Pagode Khmere Du Canada](tel:514-735-6901) - Tel. (514) 735-6901
+[Canadian Khmer Pagoda](tel:514-735-6901) - Tel. (514) 735-6901
 
 ### Thai
 
@@ -145,7 +145,7 @@ The resources below are taken from [Black Montreal](http://www.blackmontreal.com
 
 [African and Caribbean Students' Network of Montreal](http://www.acsion.org/)
 
-[Chantier dAfrique du Canada](http://chafric.ca/)
+[Canadian African project](http://chafric.ca/)
 
 ### Pan-American
 
@@ -179,9 +179,9 @@ The resources below are taken from [Black Montreal](http://www.blackmontreal.com
 
 ## Latinx (serving Latin community)
 
-[Centre des familles latino americaines](https://cafla.ca/)
+[Family center for Latino Americans](https://cafla.ca/)
 
-[Association Latino Americaine de Montreal](https://www.facebook.com/Association-Latino-Am%C3%A9ricaine-de-Montr%C3%A9al-1415457375334232/)
+[Montreal Latino American Association](https://www.facebook.com/Association-Latino-Am%C3%A9ricaine-de-Montr%C3%A9al-1415457375334232/)
 
 ## Persian
 
