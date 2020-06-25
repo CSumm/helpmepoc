@@ -52,7 +52,7 @@
 
 [Arashi Daiko | Conjunto de batería japonesa](http://www.arashidaiko.org/)
 
-[Judo Shidokan club](shidokanjc.ca)
+[Club de Judo Shidokan](shidokanjc.ca)
 
 [Dojo Zen Artes Marciales](https://www.fkco.net/)
 
