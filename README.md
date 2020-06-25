@@ -2,8 +2,6 @@
 Staging app: https://gallant-ride-34b413.netlify.app/
 
 [![gitlocalized ](https://gitlocalize.com/repo/4905/whole_project/badge.svg)](https://gitlocalize.com/repo/4905/whole_project?utm_source=badge) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
 
