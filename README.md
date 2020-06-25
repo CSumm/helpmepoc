@@ -1,6 +1,8 @@
 # Help Me POC
 Staging app: https://gallant-ride-34b413.netlify.app/
 
+[![gitlocalized ](https://gitlocalize.com/repo/4905/whole_project/badge.svg)](https://gitlocalize.com/repo/4905/whole_project?utm_source=badge)
+
 Welcome to the contribution guide for Help Me POC. There will be a few things needed to setup before you can contribute.
 ## Setup
 
