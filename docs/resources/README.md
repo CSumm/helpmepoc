@@ -29,7 +29,7 @@
 
 [McGill Association of North American Born Asians](https://manaba.ca/)
 
-[South Asia Wome's Community Center](https://www.sawcc-ccfsa.ca/EN/)
+[South Asia Women's Community Center](https://www.sawcc-ccfsa.ca/EN/)
 
 ### Chinese
 
