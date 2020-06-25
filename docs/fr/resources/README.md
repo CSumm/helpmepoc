@@ -174,7 +174,7 @@ Les ressources ci-dessous proviennent de [noirs du Montréal](http://www.blackmo
 
 [Hoodstock](https://www.hoodstock.ca/)
 
-[Versez 3 points](https://pour3points.ca/en/)
+[Pour 3 points](https://pour3points.ca/en/)
 
 ## Latinx (au service de la communauté latine)
 
