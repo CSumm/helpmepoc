@@ -4,7 +4,7 @@ El proyecto es de código abierto y bajo licencia MIT. Puede contribuir clonando
 
 ## Nuestros maravillosos contribuyentes
 
-<a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="../.vuepress/public/images/carlgithub.png"> </a>
+<a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="public/images/carlgithub.png"> </a>
 
 ## Patrocinanos
 
