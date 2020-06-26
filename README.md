@@ -31,7 +31,7 @@ This will install all the stuff (dependencies) we need to get the project fully 
 ## Modifying and editing
 To edit and modify, most of the time you'll be looking under the contribution and resources folder. There's README.md files in both. Once you made some changes to Resources' readme, feel free to put an image link to your profile or personal dev page (you can just put an image alone if you have neither).
 
-For those who are looking into adding languages to the docs, look into [VuePress Internationalization](https://v1.vuepress.vuejs.org/guide/i18n.html#default-theme-i18n-config). This will be a work in progress so we can always bounce ideas off each other.
+For those who are looking into adding languages to the docs, we currently use [GitLocalize](https://gitlocalize.com/). Make sure to open an issue on which language you want to translate, and we'll add you to the GitLocalize team to translate.
 
 #### Remember: when making changes, you'll need to push those changes to Github. There's a way to drag and drop files on the browser site or do it via command line or Github Desktop. MAKE SURE to be on or [create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) other than Master.
 
