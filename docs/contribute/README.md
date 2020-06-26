@@ -5,7 +5,7 @@ The project is open source and under GPL-3.0 license. You can contribute by clon
 ## Our wonderful contributors
 <a href="https://www.github.com/csumm">
 <img 
-src="../.vuepress/public/images/carlgithub.png"
+src="/images/carlgithub.png"
 width="150px"
 height="150px"
 />

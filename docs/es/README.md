@@ -3,7 +3,7 @@ home: true
 heroImage: /images/hero.png
 heroText: Ayudame POC
 actionText: Mira los recursos →
-actionLink: /resources/
+actionLink: /es/recursos/
 footer: Compilado por un grupo de voluntarios | Hecho con ❤️ usando Vuepress
 ---
 
