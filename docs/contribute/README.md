@@ -5,13 +5,8 @@ The project is open source and under GPL-3.0 license. You can contribute by clon
 If you're not really tech saavy, we now have an easy way using <a href="https://gallant-ride-34b413.netlify.app/admin">a form to add to the project!</a>
 
 ## Our wonderful contributors
-<a href="https://www.github.com/csumm">
-<img 
-src="/images/carlgithub.png"
-width="150px"
-height="150px"
-/>
-</a>
+<a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="/images/carlgithub.png"> </a>
+<a href="https://github.com/calba5141114"> <img width="150px" height="150px" src="/images/carlosalba.jpeg"> </a>
 
 ## Sponsor Us
 Coming soon!

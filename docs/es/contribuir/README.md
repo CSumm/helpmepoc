@@ -7,6 +7,7 @@ Si no eres realmente un experto en tecnología, ¡ahora tenemos una manera fáci
 ## Nuestros maravillosos contribuyentes
 
 <a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="/images/carlgithub.png"> </a>
+<a href="https://github.com/calba5141114"> <img width="150px" height="150px" src="/images/carlosalba.jpeg"> </a>
 
 ## Patrocinanos
 
