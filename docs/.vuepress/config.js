@@ -16,6 +16,18 @@ module.exports = {
             description: 'Una lista agregada de recursos para comunidades de color en Montreal'
         }
     },
+    head: [
+        ["script", { type:"text/javascript", src:"https://makerbadge.s3.amazonaws.com/blmbadge.js" }],
+        ["script", {}, `BLMBadge.init({
+      layout:1, 
+      theme:'dark', 
+      promoText : 'Send a donation '+String.fromCodePoint(0x2192),
+      promoLink : 'https://secure.actblue.com/donate/bailfunds?refcode=twitter/',
+      message : 'To be silent is to be complicit. Black lives matter.',
+      title : '#BlackLivesMatter'
+    })`],
+    ["script", { type:"text/javascript", src:"https://identity.netlify.com/v1/netlify-identity-widget.js"}]
+],
     themeConfig: { 
         locales: {
             '/': {
