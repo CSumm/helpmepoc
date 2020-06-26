@@ -4,7 +4,7 @@ Le projet est open source et sous licence GPL-3.0 license. Vous pouvez contribue
 
 
 
-Si vous n'êtes pas vraiment un connaisseur de la technologie, nous avons maintenant un moyen facile d'utiliser un formulaire à ajouter au projet <a href="https://gallant-ride-34b413.netlify.app/admin">! </a>
+Si vous n'êtes pas vraiment un connaisseur de la technologie, nous avons maintenant un moyen facile d'utiliser <a href="https://gallant-ride-34b413.netlify.app/admin">un formulaire à ajouter au projet! </a>
 
 ## Nos merveilleux contributeurs
 
