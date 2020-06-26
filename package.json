@@ -4,7 +4,7 @@
   "description": "List of resources for people of color",
   "main": "index.js",
   "author": "Carl Summers",
-  "license": "MIT",
+  "license": "GPLV3",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
