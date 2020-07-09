@@ -12,11 +12,16 @@
 
 [Montreal Indigenous Community Network](http://reseaumtlnetwork.com/)
 
+[Réseau jeunesse des Premières Nations](https://www.alternatives.ca/reseau/le-reseau-jeunesse-des-premieres-nations/)
+
+[Native Women's Shelter of Montreal](http://www.nwsm.info)
+
 ## Arab
 
 [Afghan Women's Center of Montreal](https://www.afghanwomenmontreal.com/)
 
 [Afghan Youth Association Of Montreal](http://ayaam.ca/)
+
 [Le Centre Culturel Syrien](https://www.centreculturelsyrien.org/)
 
 [Canadian Palestinian Organizations Coalition](https://www.cjpmefoundation.org/coalition_pmr)
@@ -43,6 +48,10 @@
 
 [Young Chinese Professional Association](https://www.ycpa.ca/en)
 
+[McGill Chinese Students Association](https://mcss.ca/#/)
+
+[Montreal Chinese Hospital](http://www.montrealchinesehospital.ca/home_en.html)
+
 ### Taiwanese
 
 [McGill Taiwanese Students' Association | MTSA](https://ssmu.ca/clubs/religion-culture-clubs/taiwanese-students-association/)
@@ -67,6 +76,8 @@
 
 [Shidokan Kendo & Iaido Club](http://www.shidokanmontreal.ca/)
 
+[Japanese Students Association(JSA)](https://ssmu.ca/clubs/religion-culture-clubs/japanese-students-association-jsa/)
+
 ### Korean
 
 [Montreal Korean Community Church](http://www.mkcc.ca/)
@@ -74,6 +85,8 @@
 [Montreal Korean Language and Culture Center](https://www.mklcc.com/)
 
 [Korean Community of Greater Montreal](http://montrealkorea.org/)
+
+[The Korean Students Society (KSS)](https://ssmu.ca/clubs/religion-culture-clubs/japanese-students-association-jsa/)
 
 ### Filipino (Pinay)
 
@@ -95,6 +108,11 @@
 
 [Restaurant Kawali](https://www.facebook.com/RestoKawali/)
 
+[McGill University Filipino Asian Students Association (MUFASA)](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-university-filipino-asian-students-association-mufasa-2/)
+
+[Quepinos](https://quepinos.weebly.com/about.html)
+
+
 ### Vietnamese
 
 [Canadian Vietnamese Community](https://vietnam.ca/)
@@ -103,11 +121,14 @@
 
 [Thuyen Ton Buddhist Association](http://thuyentonca.com/)
 
+[McGill Vietnamese Students Association](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-vietnamese-students-association-2/)
+
 ### Cambodian
 
 [Khmer History & Civilization Center](https://www.khem.org/khemaracenter.html)
 
 [Canadian Khmer Pagoda](tel:514-735-6901) - Tel. (514) 735-6901
+
 
 ### Thai
 
@@ -116,6 +137,12 @@
 ### Indian
 
 [Indian Community In Montreal](https://www.facebook.com/groups/767111396642080/)
+
+[Indian Students Association (ISA)](https://ssmu.ca/clubs/religion-culture-clubs/indian-students-association-of-mcgill-2/)
+
+[Bharatiya Sangeetha Sangham Montreal](https://www.bssmontreal.org)
+
+[Gijarato Samaj of Montreal](http://www.gujaratisamaj.ca)
 
 ### Pakistani
 
@@ -147,6 +174,8 @@ The resources below are taken from [Black Montreal](http://www.blackmontreal.com
 
 [Canadian African project](http://chafric.ca/)
 
+[African Students Asocciation of Concordia (ASAC)](https://www.asacconcordia.com)
+
 ### Pan-American
 
 [Black Academic Scholarship Fund](https://www.basfund.ca/)
@@ -177,12 +206,21 @@ The resources below are taken from [Black Montreal](http://www.blackmontreal.com
 
 [Pour 3 Points](https://pour3points.ca/en/)
 
+[McGill Black Student's Network](https://www.asacconcordia.com)
+
+[DESTA](https://destabyn.org)
+
 ## Latinx (serving Latin community)
 
 [Family center for Latino Americans](https://cafla.ca/)
 
 [Montreal Latino American Association](https://www.facebook.com/Association-Latino-Am%C3%A9ricaine-de-Montr%C3%A9al-1415457375334232/)
 
-## Persian
+[Spanish and Latin American Students’ Association of McGill University (SLASA)](https://ssmu.ca/clubs/religion-culture-clubs/spanish-and-latin-american-students-association-of-mcgill-university-slasa/)
 
-[McGill Iranian Student Association](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-iranian-student-association-misa/)
+## Persian
+[McGill Iranian Student Association (MISA)](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-iranian-student-association-misa/)
+
+[CCCIQ](https://ccciq.ca)
+
+[Tirgan](https://tirgan.ca)
