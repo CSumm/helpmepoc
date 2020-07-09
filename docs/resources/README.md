@@ -49,7 +49,7 @@
 
 [McGill Chinese Students Association](https://mcss.ca/#/)
 
-[Montreal Chinces Hospital](http://www.montrealchinesehospital.ca/home_en.html)
+[Montreal Chinese Hospital](http://www.montrealchinesehospital.ca/home_en.html)
 
 ### Taiwanese
 
