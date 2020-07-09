@@ -21,6 +21,7 @@
 [Afghan Women's Center of Montreal](https://www.afghanwomenmontreal.com/)
 
 [Afghan Youth Association Of Montreal](http://ayaam.ca/)
+
 [Le Centre Culturel Syrien](https://www.centreculturelsyrien.org/)
 
 [Canadian Palestinian Organizations Coalition](https://www.cjpmefoundation.org/coalition_pmr)
