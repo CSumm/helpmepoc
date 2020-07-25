@@ -14,6 +14,11 @@ module.exports = {
             lang: 'es',
             title: 'Ayudame POC ✊🏼✊🏽✊🏾✊🏿',
             description: 'Una lista agregada de recursos para comunidades de color en Montreal'
+        },
+        '/ja/': {
+            lang: 'ja',
+            title: 'ヘルプ　ミイ　POC',
+            description: 'モントリオールの国際色豊かなコミュニティのためのリソースを集約したリストです'
         }
     },
     head: [
@@ -70,6 +75,17 @@ module.exports = {
             {text: 'Inicio', link: '/es/'},
             {text: 'Recursos', link: '/es/recursos/'},
             {text: 'Contribuir', link: '/es/contribuir/'}
+        ],
+        sidebar: 'auto'
+    },
+    '/ja/': {
+        selectText: '言語',
+        label: '日本人',
+        ariaLabel: '言語',
+        nav: [
+            {text: 'ホームページ', link: '/ja/'},
+            {text: '資源', link: '/ja/resources/'},
+            {text: '助ける', link: '/ja/contribute/'}
         ],
         sidebar: 'auto'
     },
