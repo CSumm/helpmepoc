@@ -152,7 +152,7 @@
 
 ## 黒人
 
-The resources below are taken from [Black Montreal](http://www.blackmontreal.com/community_associations__orga.htm). All credits go to them, we are just styling it here for better accessibility.
+以下のリソースは、 [ブラックモントリオール](http://www.blackmontreal.com/community_associations__orga.htm)から取得しています。すべてのクレジットは彼らに送られます、私たちはより良いアクセシビリティのためにここでそれをスタイリングしています。
 
 ### カリビアン
 
