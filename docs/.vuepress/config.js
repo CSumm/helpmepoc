@@ -80,7 +80,7 @@ module.exports = {
     },
     '/ja/': {
         selectText: '言語',
-        label: '日本人',
+        label: '日本語',
         ariaLabel: '言語',
         nav: [
             {text: 'ホームページ', link: '/ja/'},
