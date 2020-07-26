@@ -10,6 +10,8 @@ Si vous n'êtes pas vraiment un connaisseur de la technologie, nous avons mainte
 
 <a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="/images/carlgithub.png"> </a>
 <a href="https://github.com/calba5141114"> <img width="150px" height="150px" src="/images/carlosalba.jpeg"> </a>
+<a href="https://github.com/natolcese"> <img width="150px" height="150px" src="/images/natalie_o.png"> </a>
+<a href="https://github.com/marikonda"> <img width="150px" height="150px" src="/images/marikko.png"> </a>
 
 ## Parrainez-nous
 

@@ -7,6 +7,8 @@ If you're not really tech saavy, we now have an easy way using <a href="https://
 ## Our wonderful contributors
 <a href="https://www.github.com/csumm"> <img width="150px" height="150px" src="/images/carlgithub.png"> </a>
 <a href="https://github.com/calba5141114"> <img width="150px" height="150px" src="/images/carlosalba.jpeg"> </a>
+<a href="https://github.com/natolcese"> <img width="150px" height="150px" src="/images/natalie_o.png"> </a>
+<a href="https://github.com/marikonda"> <img width="150px" height="150px" src="/images/marikko.png"> </a>
 
 ## Sponsor Us
 Coming soon!
