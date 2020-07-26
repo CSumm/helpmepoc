@@ -3,7 +3,7 @@ home: ホーム
 heroImage: /images/hero.png
 heroText: ヘルプ　ミイ　POC
 actionText: リソースをチェック→
-actionLink: /resources/
+actionLink: /ja/resources/
 footer: ボランティアグループにより編集されました。| Made with ❤️ using Vuepress
 ---
 
