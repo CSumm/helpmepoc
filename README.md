@@ -34,7 +34,10 @@ This will install all the stuff (dependencies) we need to get the project fully 
 ## Modifying and editing
 To edit and modify, most of the time you'll be looking under the contribution and resources folder. There's README.md files in both. Once you made some changes to Resources' readme, feel free to put an image link to your profile or personal dev page (you can just put an image alone if you have neither).
 
-For those who are looking into adding languages to the docs, we currently use [GitLocalize](https://gitlocalize.com/). Make sure to open an issue on which language you want to translate, and we'll add you to the GitLocalize team to translate.
+For those who are looking into adding languages to the docs, we currently use [GitLocalize](https://gitlocalize.com/). Make sure to open an issue on which language you want to translate, and we'll add you to the GitLocalize team to translate. Here are some steps to take to go about translating:
+
+1. Look into the docs folder; here you will find a README.md file along with two folders contribute and resource. 
+2. These are the pages of the project and need to be translated. Only translate the README file at the root of the project only if you want this current documentation to be in a different language and therefore accessible to others.
 
 #### Remember: when making changes, you'll need to push those changes to Github. There's a way to drag and drop files on the browser site or do it via command line or Github Desktop. MAKE SURE to be on or [create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) other than Master.
 
