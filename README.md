@@ -6,6 +6,9 @@ Staging app: https://gallant-ride-34b413.netlify.app/
 
 
 Welcome to the contribution guide for Help Me POC. There will be a few things needed to setup before you can contribute.
+
+For Chinese translations of this documentation, please take a look [here](https://github.com/CSumm/helpmepoc/tree/master/zh/README.md)
+
 ## Setup
 
 1. Get [NodeJs](https://nodejs.org/en/) and install it for your machine (follow the guides for the OS you use)
