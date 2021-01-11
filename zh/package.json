@@ -1,0 +1,15 @@
+{
+  "name": "帮助少数民族",
+  "description": "为少数民族的资料",
+  "author": "Carl Summers",
+  "license": "MIT许可证",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress开发人员文档",
+    "docs:build": "vuepress构建文档"
+  },
+  "devDependencies": {
+    "vuepress": "^ 1.5.1"
+  }
+}
