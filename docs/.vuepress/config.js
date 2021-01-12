@@ -2,23 +2,28 @@ module.exports = {
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'Help Me POC ✊🏼✊🏽✊🏾✊🏿',
+            title: 'Help Me POC',
             description: 'Resources for people of color in Montreal',
         },
         '/fr/': {
             lang: 'fr-CA',
-            title: 'Aidez-Moi POC ✊🏼✊🏽✊🏾✊🏿',
+            title: 'Aidez-Moi POC',
             description: 'Ressources pour les peuples de couleur à Montréal'
         },
         '/es/': {
             lang: 'es',
-            title: 'Ayudame POC ✊🏼✊🏽✊🏾✊🏿',
+            title: 'Ayudame POC',
             description: 'Una lista agregada de recursos para comunidades de color en Montreal'
         },
         '/ja/': {
             lang: 'ja',
             title: 'ヘルプ　ミイ　POC',
             description: 'モントリオールの国際色豊かなコミュニティのためのリソースを集約したリストです'
+        },
+        '/zh/': {
+            lang: 'zh',
+            title: '帮我POC',
+            description: '蒙特利尔有色人种资源'
         }
     },
     head: [
@@ -43,7 +48,8 @@ module.exports = {
       }`
   ]
 ],
-    themeConfig: { 
+    themeConfig: {
+        logo: '/images/helpmepoclogo.png',
         locales: {
             '/': {
                 selectText: 'Languages',
@@ -89,6 +95,17 @@ module.exports = {
         ],
         sidebar: 'auto'
     },
+    '/zh/': {
+        selectText: '语言能力',
+        label: '简体中文',
+        ariaLabel: '语言能力',
+        nav: [
+            {text: '主页', link: '/zh/'},
+            {text: '资源', link: '/zh/resources/'},
+            {text: '有助于', link: '/zh/contribute/'}
+        ],
+        sidebar: 'auto'
+    }
 },
 }
 }
