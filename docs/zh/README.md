@@ -3,7 +3,7 @@ home: 'true'
 heroImage: "/images/hero.png"
 heroText: 帮助少数民族
 actionText: 查看资源→
-actionLink: "/resources/"
+actionLink: "/zh/resources/"
 footer: 来自一群志愿者 | Vuepress❤️制造
 ---
 
