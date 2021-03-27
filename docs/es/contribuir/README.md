@@ -10,6 +10,7 @@ Si no eres realmente un experto en tecnología, ¡ahora tenemos una manera fáci
 <a href="https://github.com/calba5141114"> <img width="150px" height="150px" src="/images/carlosalba.jpeg"> </a>
 <a href="https://github.com/natolcese"> <img width="150px" height="150px" src="/images/natalie_o.png"> </a>
 <a href="https://github.com/marikonda"> <img width="150px" height="150px" src="/images/marikko.png"> </a>
+<a href="https://github.com/XsongyangX"> <img width="150px" height="150px" src="https://avatars.githubusercontent.com/u/10444460?v=4"> </a>
 
 ## Patrocinanos
 
